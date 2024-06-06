@@ -32,3 +32,26 @@ Blog Generator is a Django-based web application that leverages PostgreSQL for d
    Sign up for a free account on Supabase.<br>
    Create a new project and obtain your API URL and public key.<br>
    Update the DATABASES configuration in settings.py with your Supabase credentials.<br>
+
+5. Configure AssemblyAI:
+
+   Sign up for an account on AssemblyAI.<br>
+   Obtain your API key.<br>
+   Update the ASSEMBLYAI_API_KEY variable in settings.py with your AssemblyAI API key.<br>
+
+6. Set up OpenAI API:
+
+   Sign up for an account on OpenAI.<br>
+   Obtain your API key.<br>
+   Update the OPENAI_API_KEY variable in settings.py with your OpenAI API key.<br>
+
+7. Run migrations:
+
+   python manage.py migrate
+
+8. Run the development server:
+
+   python manage.py runserver
+
+9. Access the application at http://localhost:8000.
+
