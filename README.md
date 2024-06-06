@@ -23,12 +23,12 @@ Blog Generator is a Django-based web application that leverages PostgreSQL for d
 
 3. Set up PostgreSQL:
    
-   Install PostgreSQL on your system if not already installed.␣␣
-   Create a new database and user with appropriate permissions.␣␣
-   Update the DATABASES configuration in settings.py with your PostgreSQL database credentials.␣␣
+   Install PostgreSQL on your system if not already installed. <br>
+   Create a new database and user with appropriate permissions.<br>
+   Update the DATABASES configuration in settings.py with your PostgreSQL database credentials.<br>
 
 4. Set up Supabase:
 
-   Sign up for a free account on Supabase.␣␣
-   Create a new project and obtain your API URL and public key.␣␣
-   Update the DATABASES configuration in settings.py with your Supabase credentials.␣␣
+   Sign up for a free account on Supabase.<br>
+   Create a new project and obtain your API URL and public key.<br>
+   Update the DATABASES configuration in settings.py with your Supabase credentials.<br>
