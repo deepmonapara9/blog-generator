@@ -18,7 +18,8 @@ Blog Generator is a Django-based web application that leverages PostgreSQL for d
    cd blog-generator
    
 2. Install dependencies:
-   
+
+   ```
      pip install -r requirements.txt
 
 3. Set up PostgreSQL:
