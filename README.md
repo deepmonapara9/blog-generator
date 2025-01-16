@@ -14,7 +14,7 @@ Blog Generator is a Django-based web application that leverages PostgreSQL for d
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/blog-generator.git
+   git clone https://github.com/deepmonapara9/blog-generator.git
    cd blog-generator
    
 2. Install dependencies:
